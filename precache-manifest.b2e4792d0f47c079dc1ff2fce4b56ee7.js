@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd068a10a4232c38caaacea084e87cf1",
+    "revision": "44a4812f8b4beddd98110397e4208801",
     "url": "/projectFiveMakeup/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/projectFiveMakeup/static/css/2.d34346ea.chunk.css"
   },
   {
-    "revision": "bf1817dcbf2987061b0f",
+    "revision": "0f1b623215c0a82170d9",
     "url": "/projectFiveMakeup/static/css/main.c87ed86d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/projectFiveMakeup/static/js/2.df2ae2aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf1817dcbf2987061b0f",
-    "url": "/projectFiveMakeup/static/js/main.a42efc30.chunk.js"
+    "revision": "0f1b623215c0a82170d9",
+    "url": "/projectFiveMakeup/static/js/main.2934320d.chunk.js"
   },
   {
     "revision": "c7bf5cf873e932231d54",
