@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/projectFiveMakeup/static/css/main.c87ed86d.chunk.css",
-    "main.js": "/projectFiveMakeup/static/js/main.c94b368a.chunk.js",
-    "main.js.map": "/projectFiveMakeup/static/js/main.c94b368a.chunk.js.map",
+    "main.js": "/projectFiveMakeup/static/js/main.a42efc30.chunk.js",
+    "main.js.map": "/projectFiveMakeup/static/js/main.a42efc30.chunk.js.map",
     "runtime-main.js": "/projectFiveMakeup/static/js/runtime-main.1c6e6f1c.js",
     "runtime-main.js.map": "/projectFiveMakeup/static/js/runtime-main.1c6e6f1c.js.map",
     "static/css/2.d34346ea.chunk.css": "/projectFiveMakeup/static/css/2.d34346ea.chunk.css",
     "static/js/2.df2ae2aa.chunk.js": "/projectFiveMakeup/static/js/2.df2ae2aa.chunk.js",
     "static/js/2.df2ae2aa.chunk.js.map": "/projectFiveMakeup/static/js/2.df2ae2aa.chunk.js.map",
     "index.html": "/projectFiveMakeup/index.html",
-    "precache-manifest.cccb14cce8fb9e1a43feca7001b555ee.js": "/projectFiveMakeup/precache-manifest.cccb14cce8fb9e1a43feca7001b555ee.js",
+    "precache-manifest.54ac4cfe3e7f24c84cc9ea68afd5a6f3.js": "/projectFiveMakeup/precache-manifest.54ac4cfe3e7f24c84cc9ea68afd5a6f3.js",
     "service-worker.js": "/projectFiveMakeup/service-worker.js",
     "static/css/2.d34346ea.chunk.css.map": "/projectFiveMakeup/static/css/2.d34346ea.chunk.css.map",
     "static/css/main.c87ed86d.chunk.css.map": "/projectFiveMakeup/static/css/main.c87ed86d.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d34346ea.chunk.css",
     "static/js/2.df2ae2aa.chunk.js",
     "static/css/main.c87ed86d.chunk.css",
-    "static/js/main.c94b368a.chunk.js"
+    "static/js/main.a42efc30.chunk.js"
   ]
 }
