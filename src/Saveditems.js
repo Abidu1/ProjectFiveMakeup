@@ -1,8 +1,6 @@
 import React, { useState,useEffect } from 'react'
 import Header from './Header.js';
-
 import Footer from './Footer'
-
 import Saveditemsdisplay from './Saveditemsdisplay.js';
 import firebase from './firebaseApp';
 import { ToastContainer, toast } from 'react-toastify';

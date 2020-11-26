@@ -148,10 +148,6 @@ input{
   font-size: calc(1rem + 1vw)
 }
 
-.postSection form{
-  margin: 0 auto;
-  width:80%;
-}
 
 .submitButton{
   border: 5px solid #7796CB;
@@ -162,19 +158,7 @@ input{
   color:white;
 }
 
-.addedUserReview{
-  padding:30px;
-  background:#576490;;
-  width:55%;
-  margin: 0 auto;
-  border-radius: 10px;
-  box-shadow: 10px 10px black;
-}
 
-.addedUserReview p {
-  color:white;
-
-}
 
 .delete{
   border: 5px solid #a2b1e2;
@@ -200,10 +184,28 @@ input{
 
 
 
+@media(max-width:860px){
+  .imageDisplay a{
+    text-align: center;
+    font-size:1.5rem;
+    margin-top:2px;
+    width:100%;
+    padding:2px;
+    background:#576490;
+    border: 0;
+    border-radius: 10px;
+    color:white;
+    text-decoration: none;
+    display:flex;
+    flex-direction:column;
+  }
+}
+
 @media (max-width: 600px){
   .imageDisplay{
     grid-template-columns: repeat(3, 1fr);
   }
+
 }
 
 

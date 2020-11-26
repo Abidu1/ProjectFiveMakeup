@@ -15,7 +15,7 @@ function Saveditemsdisplay(props) {
                     <p>{displayItem.name}</p>    
                     <a href={displayItem.product_link} style={{cursor:"pointer"}}>Buy Now</a>  
 
-                    <a href="/"  onClick={()=>props.deleteItem(displayItem.refid)}  style={{cursor:"pointer" ,marginLeft:"5px"}}>Delete Item</a>  
+                    <a onClick={()=>props.deleteItem(displayItem.refid)}  style={{cursor:"pointer" ,marginLeft:"5px"}}>Delete Item</a>  
                    
                 </div>
             </div>
